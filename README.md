@@ -64,8 +64,4 @@ _Accuracy_: 82%
 ## Contributing
 Please read [CONTRIBUTION.md](CONTRIBUTION.md) for the process for submitting pull requests.
 
-## Authors
-- Ishan Mishra - Design and coding
- - Udacity - Final Project evaluation of the AI with Python Nanodegree
- 
- ![alt text](certificate.jpg)
+
